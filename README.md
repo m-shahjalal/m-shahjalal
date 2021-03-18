@@ -7,7 +7,7 @@
 ## About ::
 
 I'm a self-thought programmer since 2019. Passionate about software development, Machine Learning and Open Source, I've Experience in _**JavaScript**_, **node**, and **React**.Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
-<a href="https://samujjwaal.tech/"><img src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeamernstackdeveloper-mobile.png" align="right" height="200" /></a>
+<a href="#"><img src="./images/cover.png" align="right" height="200" /></a>
 
 ## Technologies 🔥🔥:
 
