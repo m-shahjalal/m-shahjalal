@@ -6,7 +6,7 @@
 
 ## About
 
-I'm a self-thought programmer since 2019. Passionate about software development, Machine Learning and Open Source, I've Experience in _**JavaScript**_, **node**, and **React**.Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+I'm a self-thought programmer since 2019. Passionate about software development, Machine Learning and Open Source, I've Experience in _**JavaScript**_, **node**, and **React**.Currently learning new technologies to implement on real world projects. **Love** to contribute.
 
 ## Technologies 🔥🔥
 
@@ -32,8 +32,14 @@ I'm a self-thought programmer since 2019. Passionate about software development,
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
 <code><img height="50" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=m-shahjalal&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shahjalal's GitHub Stats" align='right' />
+&nbsp;
 
-<br />
-<br />
-<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahjalal&theme=radical&hide=glsl,python" align="left" />
+<img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=m-shahjalal&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shahjalal's GitHub Stats" align='right' />
+
+&nbsp;
+
+<img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahjalal&theme=radical&hide=glsl,python" align="left" />
+
+&nbsp;
+
+### [**Link to my portfolio**](https://m-shahjalal.netlify.app)
