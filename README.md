@@ -1,14 +1,14 @@
-# <a href="https://www.linkedin.com/in/m-shahjalal/">Shahjalal</a> 😇:
+# This is <a href="https://m-shahjalal.netlify.app/">**Shahjalal**</a>
 
 ### Web Developer | Self-Thought Programmer | Learner | Author
 
 <br/>
-<br/>
-## About ::
+
+## About
 
 I'm a self-thought programmer since 2019. Passionate about software development, Machine Learning and Open Source, I've Experience in _**JavaScript**_, **node**, and **React**.Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 
-## Technologies 🔥🔥:
+## Technologies 🔥🔥
 
 <a href="#"><img src="./images/cover.png" align="right" height="200" /></a>
 
@@ -32,6 +32,8 @@ I'm a self-thought programmer since 2019. Passionate about software development,
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
 <code><img height="50" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=m-shahjalal&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shahjalal's GitHub Stats" align='right' />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=m-shahjalal&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shahjalal's GitHub Stats" align='right' />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahjalal&theme=radical&hide=glsl,python" align="left" />
+<br />
+<br />
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahjalal&theme=radical&hide=glsl,python" align="left" />
