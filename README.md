@@ -1,4 +1,4 @@
-# This is <a href="https://m-shahjalal.netlify.app/">**Shahjalal**</a>
+# This is <a href="https://m-shahjalal.netlify.app/"  target="_blank">**Shahjalal**</a>
 
 ### Web Developer | Self-Thought Programmer | Learner | Author
 
@@ -42,4 +42,4 @@ I'm a self-thought programmer since 2019. Passionate about software development,
 
 &nbsp;
 
-### [**Link to my portfolio**](https://m-shahjalal.netlify.app)
+### <a href="https://m-shahjalal.netlify.app/"  target="_blank">**Link to my portfolio**</a>
