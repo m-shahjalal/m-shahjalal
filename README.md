@@ -27,8 +27,8 @@ I'm a self-thought programmer since 2019. Passionate about software development,
 <a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/react.png"></code></a>
 <a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/mongodb.png"></code></a>
 <a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/git.png"></code></a>
-<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src=".src/images/next.png"></code></a>
-<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src=".src/images/vsc.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/next.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/vsc.png"></code></a>
 <a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/vim.png"></code></a>
 <a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/ubuntu.png"></code></a>
 
