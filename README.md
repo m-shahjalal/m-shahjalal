@@ -10,7 +10,7 @@ I'm a self-thought programmer since 2019. Passionate about software development,
 
 ## Technologies 🔥🔥
 
-<a href="#"><img src="./images/cover.png" align="right" height="200" /></a>
+<a href="#"><img src="./src/images/cover.png" align="right" height="200" /></a>
 
 -   Web Application Development with -**Node.js**.
 -   Single page application.
@@ -21,25 +21,25 @@ I'm a self-thought programmer since 2019. Passionate about software development,
 
 #### **Languages and Tools:**
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="./images/next.png"></code>
-<code><img height="50" src="./images/vsc.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"></code>
-<code><img height="50" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/javascript.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/nodejs.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/express.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/react.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/mongodb.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/git.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src=".src//images/next.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src=".src//images/vsc.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/vim.png"></code></a>
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><code><img height="50" src="./src/images/ubuntu.png"></code></a>
 
 &nbsp;
 
-<img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=m-shahjalal&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shahjalal's GitHub Stats" align='right' />
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=m-shahjalal&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shahjalal's GitHub Stats" align='right' /></a>
 
 &nbsp;
 
-<img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahjalal&theme=radical&hide=glsl,python" align="left" />
+<a href="https://m-shahjalal.netlify.app"  target="_blank"><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shahjalal&theme=radical&hide=glsl,python" align="left" /></a>
 
 &nbsp;
 
-### <a href="https://m-shahjalal.netlify.app/"  target="_blank">**Link to my portfolio**</a>
+### <a href="https://m-shahjalal.netlify.app"  target="_blank">**Link to my portfolio**</a>
