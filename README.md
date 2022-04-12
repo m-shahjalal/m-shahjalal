@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-shahjalal&label=Views&color=0064ff&style=flat-square" alt="m-shahjalal" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.shahjalal.net](https://www.shahjalal.net)
+- 👨‍💻 All of my projects are available at [here](https://m-shahjalal.netlify.app)
 
 - 💬 Ask me about **JavaScript, React, NodeJS, NoSQL**
 
