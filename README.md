@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **mohammad.sj25@gmail.com**
 
-- 📄 Know about my experiences [Shahjalal-Resume](https://docs.google.com/document/d/13kJ1goNUhPHRuN4hOHmaBl4VVF1dzGoAui1IC7ogRuI/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
